@@ -1,0 +1,6 @@
+{
+  "name": "SMRITI",
+  "description": "SMRITI: A Continuous Operational Learning Platform for manufacturing MSMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
